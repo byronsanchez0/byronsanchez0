@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from El Salvador</h3>
 <h4 align="center">Here you can find more information about me and my experience.
 
-[- My Linkedin](linkedin.com/in/byron-carrillo-a77766237)
+[- My Linkedin](www.linkedin.com/in/byron-carrillo-a77766237)
 
 </h4>
 
@@ -11,18 +11,18 @@
 [Web Asesores](https://github.com/byronsanchez0/informativeWebsite), (https://www.asesores.com.sv)
 
 - 👨‍💻 Top projects in react native
-[Dinamed-app](https://github.com/byronsanchez0/Dinamed-app)
-[Rivian-app](https://github.com/byronsanchez0/RIVIANAPP)
+[Dinamed-app](https://github.com/byronsanchez0/Dinamed-app),
+[Rivian-app](https://github.com/byronsanchez0/RIVIANAPP),
 [Stripe-payments-app](https://github.com/byronsanchez0/PasareladePago_ReactNative_Stripe)
 
 - 👨‍💻 Top projects in android 
-[Anime app with clean architecture](https://github.com/byronsanchez0/AnimeCleanApp)
-[Music player app with clean architecture](https://github.com/byronsanchez0/CleanMusicPlayer)
+[Anime app with clean architecture](https://github.com/byronsanchez0/AnimeCleanApp),
+[Music player app with clean architecture](https://github.com/byronsanchez0/CleanMusicPlayer),
 [Camera app with compose](https://github.com/byronsanchez0/CleanMusicPlayer)
 
 - 👨‍💻 Top projects in unity 
-[Cards memory game](https://github.com/Elizabeth186/ProductosApp_Mongodb_AndHeroku)
-[Labyrinth game](https://github.com/byronsanchez0/LabyrinthGame)
+[Cards memory game](https://github.com/Elizabeth186/ProductosApp_Mongodb_AndHeroku),
+[Labyrinth game](https://github.com/byronsanchez0/LabyrinthGame),
 [Balloon pop-up game](https://github.com/byronsanchez0/BalloonPopUpGame)
 
 

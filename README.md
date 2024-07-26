@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from El Salvador</h3>
 <h4 align="center">Here you can find more information about me and my experience.
 
-[- My Linkedin](www.linkedin.com/in/byron-carrillo-a77766237)
+- My Linkedin: www.linkedin.com/in/byron-carrillo-a77766237
 
 </h4>
 
